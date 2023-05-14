@@ -4,7 +4,7 @@ This project brings language model chats directly onto web browsers. **Everythin
 
 **[Check out our demo webpage to try out!](https://mlc.ai/web-llm/)**
 
-You might also be interested in [MLC LLM](https://github.com/mlc-ai/mlc-llm), our companion project that runs LLMs natively on iphone and other native local environments.
+You might also be interested in [MLC LLM](https://github.com/najwno/mlc-llm), our companion project that runs LLMs natively on iphone and other native local environments.
 
 <img src="site/img/fig/demo.gif">
 
@@ -140,8 +140,8 @@ Then you will find that the execution speed is as fast as native GPU environment
 ## Links
 
 - [Demo page](https://mlc.ai/web-llm/)
-- If you want to run LLM on native runtime, check out [MLC-LLM](https://github.com/mlc-ai/mlc-llm)
-- You might also be interested in [Web Stable Diffusion](https://github.com/mlc-ai/web-stable-diffusion/).
+- If you want to run LLM on native runtime, check out [MLC-LLM](https://github.com/najwno/mlc-llm)
+- You might also be interested in [Web Stable Diffusion](https://github.com/najwno/web-stable-diffusion/).
 
 ## Acknowledgement
 
